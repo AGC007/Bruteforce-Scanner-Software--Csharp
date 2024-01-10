@@ -6,4 +6,6 @@
 - Tested ✅
 - Fast ✅
 
+- API : https://github.com/AGC007/Bruteforce-Scanner-API--PHP ✅
+
 ------- Developed by AGC007 -------
