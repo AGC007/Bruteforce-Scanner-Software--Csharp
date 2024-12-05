@@ -1,0 +1,56 @@
+C:\Users\arash\OneDrive\Desktop\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\bin\Debug\Bruteforce Scanner [v1] By AGC007™.exe.config
+C:\Users\arash\OneDrive\Desktop\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\bin\Debug\Bruteforce Scanner [v1] By AGC007™.exe
+C:\Users\arash\OneDrive\Desktop\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\bin\Debug\Bruteforce Scanner [v1] By AGC007™.pdb
+C:\Users\arash\OneDrive\Desktop\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\bin\Debug\Json.dll
+C:\Users\arash\OneDrive\Desktop\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\bin\Debug\Leaf.xNet.dll
+C:\Users\arash\OneDrive\Desktop\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\bin\Debug\MaterialSkin.dll
+C:\Users\arash\OneDrive\Desktop\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\bin\Debug\MetroFramework.dll
+C:\Users\arash\OneDrive\Desktop\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\bin\Debug\MetroSuite 2.0.dll
+C:\Users\arash\OneDrive\Desktop\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\bin\Debug\RelyUI.dll
+C:\Users\arash\OneDrive\Desktop\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\bin\Debug\XanderUI.dll
+C:\Users\arash\OneDrive\Desktop\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\bin\Debug\Json.pdb
+C:\Users\arash\OneDrive\Desktop\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\bin\Debug\Leaf.xNet.xml
+C:\Users\arash\OneDrive\Desktop\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\obj\Debug\Bruteforce_Scanner_v1.About.resources
+C:\Users\arash\OneDrive\Desktop\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\obj\Debug\Bruteforce_Scanner_v1.Form1.resources
+C:\Users\arash\OneDrive\Desktop\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\obj\Debug\Bruteforce_Scanner_v1.Properties.Resources.resources
+C:\Users\arash\OneDrive\Desktop\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\obj\Debug\Bruteforce_Scanner_v1.csproj.GenerateResource.cache
+C:\Users\arash\OneDrive\Desktop\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\obj\Debug\Bruteforce_Scanner_v1.csproj.CoreCompileInputs.cache
+C:\Users\arash\OneDrive\Desktop\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\obj\Debug\Bruteforce_Scanner_v1.csproj.CopyComplete
+C:\Users\arash\OneDrive\Desktop\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\obj\Debug\Bruteforce Scanner [v1] By AGC007™.exe
+C:\Users\arash\OneDrive\Desktop\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\obj\Debug\Bruteforce Scanner [v1] By AGC007™.pdb
+E:\پروژه\MY_Project\Normal\Form\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\bin\Debug\Bruteforce Scanner [v1] By AGC007™.exe.config
+E:\پروژه\MY_Project\Normal\Form\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\bin\Debug\Bruteforce Scanner [v1] By AGC007™.exe
+E:\پروژه\MY_Project\Normal\Form\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\bin\Debug\Bruteforce Scanner [v1] By AGC007™.pdb
+E:\پروژه\MY_Project\Normal\Form\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\bin\Debug\Json.dll
+E:\پروژه\MY_Project\Normal\Form\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\bin\Debug\Leaf.xNet.dll
+E:\پروژه\MY_Project\Normal\Form\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\bin\Debug\MaterialSkin.dll
+E:\پروژه\MY_Project\Normal\Form\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\bin\Debug\MetroFramework.dll
+E:\پروژه\MY_Project\Normal\Form\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\bin\Debug\MetroSuite 2.0.dll
+E:\پروژه\MY_Project\Normal\Form\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\bin\Debug\RelyUI.dll
+E:\پروژه\MY_Project\Normal\Form\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\bin\Debug\XanderUI.dll
+E:\پروژه\MY_Project\Normal\Form\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\bin\Debug\Json.pdb
+E:\پروژه\MY_Project\Normal\Form\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\bin\Debug\Leaf.xNet.xml
+E:\پروژه\MY_Project\Normal\Form\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\obj\Debug\Bruteforce_Scanner_v1.About.resources
+E:\پروژه\MY_Project\Normal\Form\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\obj\Debug\Bruteforce_Scanner_v1.Form1.resources
+E:\پروژه\MY_Project\Normal\Form\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\obj\Debug\Bruteforce_Scanner_v1.Properties.Resources.resources
+E:\پروژه\MY_Project\Normal\Form\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\obj\Debug\Bruteforce_Scanner_v1.csproj.GenerateResource.cache
+E:\پروژه\MY_Project\Normal\Form\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\obj\Debug\Bruteforce_Scanner_v1.csproj.CoreCompileInputs.cache
+E:\پروژه\MY_Project\Normal\Form\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\obj\Debug\Bruteforce Scanner [v1] By AGC007™.exe
+E:\پروژه\MY_Project\Normal\Form\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\obj\Debug\Bruteforce Scanner [v1] By AGC007™.pdb
+E:\پروژه\MY_Project\LanguageDev\C#\Form\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\bin\Debug\Bruteforce Scanner [v1] By AGC007™.exe.config
+E:\پروژه\MY_Project\LanguageDev\C#\Form\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\bin\Debug\Bruteforce Scanner [v1] By AGC007™.exe
+E:\پروژه\MY_Project\LanguageDev\C#\Form\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\bin\Debug\Bruteforce Scanner [v1] By AGC007™.pdb
+E:\پروژه\MY_Project\LanguageDev\C#\Form\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\bin\Debug\Json.dll
+E:\پروژه\MY_Project\LanguageDev\C#\Form\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\bin\Debug\Leaf.xNet.dll
+E:\پروژه\MY_Project\LanguageDev\C#\Form\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\bin\Debug\Json.pdb
+E:\پروژه\MY_Project\LanguageDev\C#\Form\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\bin\Debug\Leaf.xNet.xml
+E:\پروژه\MY_Project\LanguageDev\C#\Form\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\obj\Debug\Bruteforce_Scanner_v1.About.resources
+E:\پروژه\MY_Project\LanguageDev\C#\Form\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\obj\Debug\Bruteforce_Scanner_v1.Form1.resources
+E:\پروژه\MY_Project\LanguageDev\C#\Form\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\obj\Debug\Bruteforce_Scanner_v1.Properties.Resources.resources
+E:\پروژه\MY_Project\LanguageDev\C#\Form\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\obj\Debug\Bruteforce_Scanner_v1.csproj.GenerateResource.cache
+E:\پروژه\MY_Project\LanguageDev\C#\Form\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\obj\Debug\Bruteforce_Scanner_v1.csproj.CoreCompileInputs.cache
+E:\پروژه\MY_Project\LanguageDev\C#\Form\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\obj\Debug\Bruteforce Scanner [v1] By AGC007™.exe
+E:\پروژه\MY_Project\LanguageDev\C#\Form\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\obj\Debug\Bruteforce Scanner [v1] By AGC007™.pdb
+E:\پروژه\MY_Project\LanguageDev\C#\Form\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\obj\Debug\Bruteforce_Scanner_v1.Loading.resources
+E:\پروژه\MY_Project\LanguageDev\C#\Form\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\obj\Debug\Bruteforce_Scanner_v1.csproj.CopyComplete
+E:\پروژه\MY_Project\LanguageDev\C#\Form\Bruteforce_Scanner_v1\Bruteforce_Scanner_v1\obj\Debug\Bruteforce_Scanner_v1.csproj.AssemblyReference.cache
